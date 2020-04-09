@@ -1,0 +1,315 @@
+swagger: '2.0'
+info:
+  title: Natural Voice SDK
+  description: Natural Voice SDKs are easiest and best supported way for most developers to quickly build and iterate Natural Voice applications that integrate with our services programmatically.
+  version: 1.2.0
+host: api.aimmatic.com
+schemes:
+- https
+basePath: /v1
+produces:
+- application/json
+paths:
+  /insights/GetValues:
+    get:
+      summary: Retrieve values uploaded by your application
+      description: >-
+        Use this API to retrieve values uploaded by your application. This is a GET operation.
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: query
+        name: valuesId
+        type: string
+        description: >-
+          (required) String, the valuesId, returned by Upload Values API.
+        required: true
+      tags:
+      - Get Values
+      responses:
+        '200':
+          description: Good response
+          schema:
+            $ref: '#/definitions/ValuesDocumentResponse'
+        '400':
+          description: Bad Request
+        '401':
+          description: >-
+            Unauthorized, you have an invalid apikey or secret key. If you do not use the SDK and calculate the signature by yourself make sure to follow our signature authentication calculation guide.
+  '/insights/HasNLPResults/{audioId}':
+    get:
+      summary: Determine if an audio upload has NLP results
+      description: >-
+        Use this API to determine if transcribed audio has NLP results. This is a GET operation.
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: path
+        name: audioId
+        required: true
+        type: string
+        description: The audio Id
+      tags:
+      - Has NLP Results
+      responses:
+        '200':
+          description: BooleanResponse
+          schema:
+            $ref: '#/definitions/BooleanResponse'
+        '401':
+          description: >-
+            Unauthorized, you have an invalid apikey or secret key. If you do not use the SDK and calculate the signature by yourself make sure to follow our signature authentication calculation guide.
+  /insights/NLPResults:
+    get:
+      summary: Retrieve text analysis for a document corpus
+      description: >-
+        Use this API to retrieve document sentiment, named entities, and syntax analysis after natural language processing (NLP). This is a GET  operation. Optionally can provide a start and end date range to retrieve the response for a document corpus that have NLP results.
+      produces:
+      - application/json
+      parameters:
+      - in: query
+        name: audioId
+        type: string
+        description: >-
+          (optional) String, the audioId, returned by Upload Audio API, query parameter start and end will be ignored if audioId is presented.
+      - in: query
+        name: start
+        type: integer
+        format: int64
+        description: >-
+          (optional) UTC start time in millisecond, must not include audioId.
+      - in: query
+        name: end
+        type: integer
+        format: int64
+        description: >-
+          (optional) UTC end time in millisecond, must not include audioId.
+      tags:
+      - NLP Results
+      responses:
+        '200':
+          description: NLPDocumentResponse
+          schema:
+            $ref: '#/definitions/NLPDocumentResponse'
+        '401':
+          description: >-
+            Unauthorized, you have an invalid apikey or secret key. If you do not use the SDK and calculate the signature by yourself make sure to follow our signature authentication calculation guide.
+  '/insights/sentibot/{audioId}':
+    get:
+      summary: Sentiment classification for bot applications
+      description: >-
+        Use this API to find out if the sentiment classifications (ClearlyPositive, ClearlyNegative, NeutralMixed, AlertManager) are TRUE or FALSE for a given audioId that has NLP results. Bots can be programmed to use Sentibot classifications for improved conversational design. This is a GET operation.
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      tags:
+      - Sentibot
+      parameters:
+      - in: path
+        name: audioId
+        type: string
+        description: >-
+          (required) String, the audioId, returned by Upload Audio API.
+        required: true
+      responses:
+        '200':
+          description: Good response
+          schema:
+            $ref: '#/definitions/SentibotResponse'
+        '401':
+          description: >-
+            Unauthorized, you have an invalid apikey or secret key. If you do not use the SDK and calculate the signature by yourself make sure to follow our signature authentication calculation guide.
+  /insights/ess:
+    get:
+      summary: Calculate the Entity Sentiment Score
+      description: >-
+        Use this API to calculate ESS. This is a GET operation. Optionally can provide a start and end date range to retrieve the response for a document corpus that have NLP results.
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: query
+        name: saliencevalue
+        type: number
+        format: float
+        description: >-
+          (required) Floating point number, 0 is the recommended value, 1 and 2 are also accepted, value indicates the salience factor applied in the calculation of ESS weights.
+        required: true
+      - in: query
+        name: start
+        type: integer
+        format: int64
+        description: >-
+          (optional) UTC start time in millisecond, must not include audioId.
+      - in: query
+        name: end
+        type: integer
+        format: int64
+        description: >-
+          (optional) UTC end time in millisecond, must not include audioId.
+      tags:
+      - ESS
+      responses:
+        '200':
+          description: ESS
+          schema:
+            $ref: '#/definitions/ESSResponse'
+        '401':
+          description: >-
+            Unauthorized, you have an invalid apikey or secret key. If you do not use the SDK and calculate the signature by yourself make sure to follow our signature authentication calculation guide.
+  /insights/categories:
+    get:
+      summary: Retrieve content categories for audio uploads
+      description: >-
+        Use this API to query Natural Voice to find the content categories for a provided audio ID. This is a GET operation. Optionally can provide a start and end date range to retrieve the response for a document corpus that have NLP results.
+      parameters:
+      - in: query
+        name: audioId
+        type: string
+        description: >-
+          (optional) String, the audioId, returned by Upload Audio API, query parameter start and end will be ignored if audioId is presented.
+      - in: query
+        name: start
+        type: integer
+        format: int64
+        description: >-
+          (optional) UTC start time in millisecond, must not include audioId.
+      - in: query
+        name: end
+        type: integer
+        format: int64
+        description: >-
+          (optional) UTC end time in millisecond, must not include audioId.
+      tags:
+      - Categories
+      responses:
+        '200':
+          description: Category Response
+          schema:
+            $ref: '#/definitions/CategoryResponse'
+        '401':
+          description: >-
+            Unauthorized, you have an invalid apikey or secret key. If you do not use the SDK and calculate the signature by yourself make sure to follow our signature authentication calculation guide.
+        '403':
+          description: Forbidden, you don't have permission.
+definitions:
+  CategoryResponse:
+    allOf:
+    - $ref: '#/definitions/BaseResponse'
+    - properties:
+        account:
+          $ref: '#/definitions/Account'
+        numtexts:
+          type: integer
+        records:
+          type: array
+          items:
+            $ref: '#/definitions/Record'
+  Record:
+    type: object
+    properties:
+      confidence:
+        type: number
+        format: double
+      name:
+        type: string
+      textpercentage:
+        type: number
+        format: double
+  Account:
+    type: object
+    properties:
+      requestid:
+        type: string
+      accountid:
+        type: string
+      modifiedByAccountId:
+        type: string
+      userid:
+        type: string
+      apikey:
+        type: string
+      datecreated:
+        type: integer
+  BaseResponse:
+    type: object
+    properties:
+      code:
+        type: integer
+      message:
+        type: string
+  BooleanResponse:
+    allOf:
+    - $ref: '#/definitions/BaseResponse'
+    - properties:
+        value:
+          type: boolean
+  ESSResponse:
+    allOf:
+    - $ref: '#/definitions/BaseResponse'
+    - properties:
+        essData:
+          type: array
+          items:
+            $ref: '#/definitions/ESSData'
+  ESSData:
+    type: object
+    properties:
+      value:
+        type: number
+        format: float
+      name:
+        type: string
+  NLPDocumentResponse:
+    allOf:
+    - $ref: '#/definitions/BaseResponse'
+    - properties:
+        nlpData:
+          type: array
+          items:
+            $ref: '#/definitions/NlpData'
+  NlpData:
+    type: object
+    properties:
+      audioId:
+        type: string
+      sentiment:
+        type: object
+        description: >-
+          https://godoc.org/google.golang.org/genproto/googleapis/cloud/language/v1#AnalyzeSentimentResponse
+      syntax:
+        type: object
+        description: >-
+          https://godoc.org/google.golang.org/genproto/googleapis/cloud/language/v1#AnalyzeSyntaxResponse
+      entities:
+        type: object
+        description: >-
+          https://godoc.org/google.golang.org/genproto/googleapis/cloud/language/v1#AnalyzeEntitiesResponse
+  ValuesDocumentResponse:
+    allOf:
+    - $ref: '#/definitions/BaseResponse'
+    - properties:
+        values:
+          type: object
+          description: The json data object that was uploaded and stored
+  SentibotResponse:
+    allOf:
+    - $ref: '#/definitions/BaseResponse'
+    - properties:
+        sentiment:
+          type: array
+          items:
+            $ref: '#/definitions/SentimentScript'
+  SentimentScript:
+    type: object
+    properties:
+      name:
+        type: string
+      value:
+        type: string

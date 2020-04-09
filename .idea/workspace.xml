@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6208263-bdd5-4a4b-ac2f-36dcf1898306" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="983050424">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.124" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.153" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.79" value="2" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.91" value="2" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="81" />
+          <entry key="sh" value="2" />
+          <entry key="xml" value="2" />
+          <entry key="yaml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="81" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="697" />
+          <entry key="sh" value="2" />
+          <entry key="txt" value="163" />
+          <entry key="xml" value="1" />
+          <entry key="yaml" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="697" />
+          <entry key="PLAIN_TEXT" value="165" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="488703807">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+          <entry key="md" value="3" />
+          <entry key="sh" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="160" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="160" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-180285711">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="yaml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/aimmatic/auth/SignatureTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="200" selection-start-line="200" selection-end-line="200" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/aimmatic/auth/CredentialsProviderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/ApiClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17391">
+              <caret line="1137" column="13" selection-start-line="1137" selection-start-column="13" selection-end-line="1137" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/swagger.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="314" column="20" selection-start-line="314" selection-start-column="20" selection-end-line="314" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/aimmatic/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-71">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/aimmatic/auth/AimMaticCredentials.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insightsCategoriesGetWithHttpInfo</find>
+      <find>insightsHasnlpresultsAudioIdGetCall</find>
+      <find>insightsSentibotGetWithHttpInfo</find>
+      <find>getcall</find>
+      <find>SentibotResponse</find>
+      <find>insightsUploadAudioPost</find>
+      <find>API</find>
+      <find>form-da</find>
+      <find>audio</find>
+      <find>audior</find>
+      <find>uploadv</find>
+      <find>uploadva</find>
+      <find>langs</find>
+      <find>upload</find>
+      <find>uploadval</find>
+      <find>keypair</find>
+      <find>insightsNssGetWithHtt</find>
+      <find>key != null</find>
+      <find>intercept</find>
+      <find>class AimMaticCredentials</find>
+      <find>&quot;AimMatic</find>
+      <find>header</find>
+      <find>setaim</find>
+      <find>getCredentials</find>
+      <find>insightsNssGetWithHttpInfo</find>
+      <find>insightsNssGetValidateBeforeCall</find>
+      <find>insightsNssGetCall</find>
+      <find>buildCall</find>
+      <find>newCall</find>
+      <find>setAimMaticCredentials</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/aimmatic/auth/CredentialsProviderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadTranscriptApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/NLPResultsApiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/api/InsightsCategoriesApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/api/SentibotApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadAudioApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadTranscriptApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/NSSScoreApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/SentibotApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/ESSScoreApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/GetNaturalVoiceLangsApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAudioApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/InsightsCategoriesApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/HasNLPResultsApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadValuesApiTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gen.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/TextDocumentApiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/ApiClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aimmatic/auth/Signature.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/api/NSSApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/swagger.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="690" />
+    <option name="y" value="140" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aimmatic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Replyfast Experimental API Client Library for Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimmatic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Replyfast Experimental API Client Library for Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimmatic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Replyfast Experimental API Client Library for Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimmatic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Replyfast Experimental API Client Library for Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimmatic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Replyfast Experimental API Client Library for Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Workzone/GoLangJob/Java/natural-voice-sdk-java/src/main/java/io/swagger/client/api/HasNLPResultsApi.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582935491220" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Replyfast Supported API Client Library for Java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workzone\GoLangJob\Java\natural-voice-sdk-java\src\test\java\io\swagger\client\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.io.swagger.client.api in aimmatic">
+    <configuration name="All in aimmatic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aimmatic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HasNLPResultsApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aimmatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.client.api.HasNLPResultsApiTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NLPResultsApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aimmatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.client.api.NLPResultsApiTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="aimmatic" />
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.aimmatic.auth in natural-voice-sdk-java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="natural-voice-sdk-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aimmatic.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aimmatic.auth" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="io.swagger.client.api in aimmatic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="natural-voice-sdk-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.io.swagger.client.api in aimmatic" />
+      <item itemvalue="JUnit.NLPResultsApiTest" />
+      <item itemvalue="JUnit.HasNLPResultsApiTest" />
+      <item itemvalue="JUnit.All in aimmatic" />
+      <item itemvalue="JUnit.com.aimmatic.auth in natural-voice-sdk-java" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.io.swagger.client.api in aimmatic" />
+        <item itemvalue="JUnit.com.aimmatic.auth in natural-voice-sdk-java" />
+        <item itemvalue="JUnit.All in aimmatic" />
+        <item itemvalue="JUnit.HasNLPResultsApiTest" />
+        <item itemvalue="JUnit.NLPResultsApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6208263-bdd5-4a4b-ac2f-36dcf1898306" name="Default Changelist" comment="" />
+      <created>1538447370441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538447370441</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fixed the various unit tests and incorrect pathing in 2 api endpoints.">
+      <created>1538792286772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538792286772</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed UploadAudioTest">
+      <created>1539047504493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539047504493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed UploadAudioTest">
+      <created>1539047844843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539047844843</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated generated code">
+      <created>1543294375954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543294375954</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated generated code, added uploadValues">
+      <created>1543374660522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543374660522</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated generated code, added uploadValues">
+      <created>1543374849040</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543374849040</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="com_aimmatic_auth_in_natural-voice-sdk-java - 2020.02.28 at 16h 42m 11s.xml">
+      <configuration name="com.aimmatic.auth in natural-voice-sdk-java" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_aimmatic_auth_in_natural-voice-sdk-java - 2020.02.28 at 16h 43m 52s.xml">
+      <configuration name="com.aimmatic.auth in natural-voice-sdk-java" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 16h 45m 54s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 16h 47m 52s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 16h 48m 24s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 16h 58m 58s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 17h 01m 52s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 17h 02m 59s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 17h 06m 33s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="io_swagger_client_api_in_aimmatic - 2020.02.28 at 17h 07m 12s.xml">
+      <configuration name="io.swagger.client.api in aimmatic" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26226014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.3954496" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.3954496" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33260393" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3261105" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Fixed the various unit tests and incorrect pathing in 2 api endpoints." />
+    <MESSAGE value="Fixed UploadAudioTest" />
+    <MESSAGE value="Updated generated code" />
+    <MESSAGE value="Updated generated code, added uploadValues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated generated code, added uploadValues" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/swagger/client/ApiClient.java</url>
+          <line>1095</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/TextDocumentApi.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/TextDocumentApi.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/TextDocumentApi.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/NLPResultsApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/TextDocumentApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/model/TextDocumentResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/model/TranscriptResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/SentibotApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/InsightsCategoriesApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/model/NlpData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/ApiCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadAudioApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/model/NLPDocumentResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/JSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/swagger/src/test/java/io/swagger/client/api/UploadTranscriptAPIApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/NLPResultsApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/swagger/src/test/java/io/swagger/client/api/UploadAudioAPIApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/DefaultApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/GeometryImportApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadTranscriptApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/SentibotApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadTranscriptApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/swagger/src/test/java/io/swagger/client/api/UploadValuesApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/GeometryImportApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/model/ValuesDocumentResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/HasNLPResultsApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadValuesApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadValuesApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/ESSScoreApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/GetNaturalVoiceLangsApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/HasNLPResultsApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/InsightsCategoriesApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAudioApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="72" column="170" selection-start-line="72" selection-start-column="170" selection-end-line="72" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aimmatic/auth/RuntimeCredentialsProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aimmatic/auth/Signature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="96" column="42" lean-forward="true" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/NSSScoreApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/aimmatic/auth/SignatureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/aimmatic/auth/CredentialsProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/ApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17391">
+          <caret line="1137" column="13" selection-start-line="1137" selection-start-column="13" selection-end-line="1137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/TextDocumentApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="43" column="106" selection-start-line="43" selection-start-column="106" selection-end-line="43" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/NSSApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="149" column="106" selection-start-line="149" selection-start-column="106" selection-end-line="149" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="84" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/swagger.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="314" column="20" selection-start-line="314" selection-start-column="20" selection-end-line="314" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aimmatic/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aimmatic/auth/AimMaticCredentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aimmatic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.stefanbirkner:system-rules:1.17.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
