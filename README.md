@@ -1,10 +1,10 @@
 The AimMatic Java SDK is the best supported way for most developers to use AimMatic APIs.
 
-### Natural Voice SDK ###
-The Natural Voice SDK is a Java client library designed to help developers quickly deploy applications with programmatic connections to Natural Voice APIs.
+### Replyfast SDK ###
+The Replyfast SDK is a Java client library designed to help developers quickly deploy applications with programmatic connections to Replyfast APIs.
 
 ### Getting Started ###
-The Natural Voice SDK requires an API Key and Secret Key to establish a secure connection to our services. You can this create this AimMatic Key Pair in the AimMatic Dev Console. To do this, login at https://account.aimmatic.com and navigate to 'My Apps'.
+The Replyfast SDK requires an API Key and Secret Key to establish a secure connection to our services. You can this create this AimMatic Key Pair in the AimMatic Dev Console. To do this, login at https://account.aimmatic.com and navigate to 'My Apps'.
 
 ###### Minimum requirements ######
 To run the SDK you will need Java 1.8+.
