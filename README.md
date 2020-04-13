@@ -1,16 +1,17 @@
-The AimMatic Java SDK is the best supported way for most developers to use AimMatic APIs.
+# Replyfast Test SDK For Java #
+The easiest and recommended way for most developers to use the API is with our provided client libraries.
 
-### Replyfast SDK ###
-The Replyfast SDK is a Java client library designed to help developers quickly deploy applications with programmatic connections to Replyfast APIs.
+### Read This First ###
+Request testing authorization before using this library. Using this SDK requires an API Key and Secret Key to establish a secure connection to the cloud.
 
-### Getting Started ###
-The Replyfast SDK requires an API Key and Secret Key to establish a secure connection to our services. You can this create this AimMatic Key Pair in the AimMatic Dev Console. To do this, login at https://account.aimmatic.com and navigate to 'My Apps'.
+### Paid Plan ###
+Select a paid plan [here](https://www.aimmatic.com/get-x-class.html), in less than 30 seconds you get an email order confirmation with a link to create your secure login to the Developer Console. Login to the developer console to create an app, create an API key and keypairs, and access the API Reference.
 
 ###### Minimum requirements ######
 To run the SDK you will need Java 1.8+.
 
 ##### Install the SDK #####
-The recommended way to use the AimMatic SDK for Java in your project is to consume it from Maven. To do this edit your Maven settings.xml file to include the JCenter Repository:
+The recommended way to use the SDK in your project is to consume it from Maven. To do this edit your Maven settings.xml file to include the JCenter Repository:
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
 <settings xsi:schemaLocation='http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd'
